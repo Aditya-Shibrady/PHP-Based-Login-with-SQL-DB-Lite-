@@ -1,0 +1,2 @@
+insert into users values (‘CandidateA’,’CanA’,’CanA@gmail.com','girl.png');
+insert into users values (‘CandidateB’,’CanB’,’CanB@gmail.com','audi.jpg');
